@@ -5,7 +5,7 @@
  
         <StackLayout>
             <Button Text="Apple Page"/>
-            <Button Text="Orange Page"/>
+            <Button Text="Orange Pages"/>
         </StackLayout>
 
 </ContentPage>
