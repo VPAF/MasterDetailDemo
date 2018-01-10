@@ -4,7 +4,7 @@
              x:Class="MasterDetailDemo.MasterPage" Title="Master">
  
         <StackLayout>
-            <Button Text="Apple Page"/>
+            <Button Text="Apple Pages"/>
             <Button Text="Orange Pages"/>
         </StackLayout>
 
